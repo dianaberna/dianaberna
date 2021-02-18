@@ -15,12 +15,10 @@
 
 <h2><img src="https://www.dianabernabei.com/img/web-design-icons/tools.png" alt="skills" height="20" width="20" /> Skills</h2>
 
+<h2> <img src="https://www.dianabernabei.com/img/web-design-icons/analysis.png" alt="analysis" height="20" width="20" /> GitHub Stats</h2>
 <a href="https://github.com/dianaberna/dianaberna" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaberna&layout=compact&theme=highcontrast" />
 </a>
-
-<h2> <img src="https://www.dianabernabei.com/img/web-design-icons/analysis.png" alt="analysis" height="20" width="20" /> GitHub Stats</h2>
-
 <a href="https://github.com/dianaberna/dianaberna" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dianaberna&theme=highcontrast&show_icons=true" alt="Diana's GitHub Stats" />
 </a>
