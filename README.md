@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dianabernabei" target="blank">
-  	<img align="center" src="https://www.dianaberna.github.io/img/social-media-icons/038-linkedin.png" alt="profilo linkedin diana bernabei" height="40" width="40" />
+  	<img align="center" src="https://www.dianabernabei.com/img/social-media-icons/038-linkedin.png" alt="profilo linkedin" height="40" width="40" />
   </a>
   <a href="https://twitter.com/dianabernabei" target="blank">
-  	<img align="center" src="https://www.dianaberna.github.io/img/social-media-icons/050-twitter.png" alt="profilo twitter diana bernabei" height="40" width="40" /></a>
+  	<img align="center" src="https://www.dianabernabei.com/img/social-media-icons/050-twitter.png" alt="profilo twitter" height="40" width="40" />
+  </a>
   <a href="https://www.instagram.com/_dianacodes/" target="blank">
-  	<img align="center" src="https://www.dianabernabei.com/img/social-media-icons/034-instagram.png" alt="profilo instagram diana bernabei aka dianacodes" height="40" width="40" />
+  	<img align="center" src="https://www.dianabernabei.com/img/social-media-icons/034-instagram.png" alt="profilo instagram" height="40" width="40" />
   </a>
 </p>
 
