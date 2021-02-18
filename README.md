@@ -14,6 +14,17 @@
 </p>
 
 <h2><img src="https://www.dianabernabei.com/img/web-design-icons/tools.png" alt="skills" height="20" width="20" /> Skills</h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3, SASS</li>
+  <li>Bootstrap, Bulma</li>
+  <li>Javascript, jQuery</li>
+  <li>C / C ++, PHP</li>
+  <li>JAMstack (Jekyll)</li>
+  <li>Git, Github, Bitbucket</li>
+  <li>Markdown</li>
+  <li>Material Design and accessibility</li>
+</ul>
 
 <h2> <img src="https://www.dianabernabei.com/img/web-design-icons/analysis.png" alt="analysis" height="20" width="20" /> GitHub Stats</h2>
 <a href="https://github.com/dianaberna/dianaberna" align="center">
