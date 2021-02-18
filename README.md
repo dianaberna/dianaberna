@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 <h4 align="center">Front-end Developer & UI Designer</h4>
 
 <p align="center">
-  <a href=https://www.linkedin.com/in/dianabernabei target="blank"><img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" alt="profilo linkedin diana bernabei" height="20" width="20" />
+  <a href="https://www.linkedin.com/in/dianabernabei" target="blank"><img align="center" src="dianaberna.github.io/img/social-media-icons/038-linkedin.png" alt="profilo linkedin diana bernabei" height="20" width="20" />
+    <a href="https://twitter.com/dianabernabei" target="blank"><img align="center" src="dianaberna.github.io/img/social-media-icons/050-twitter.png
+" alt="profilo twitter diana bernabei" height="20" width="20" />
+      <a href="https://www.instagram.com/_dianacodes/" target="blank"><img align="center" src="dianaberna.github.io/img/social-media-icons/034-instagram.png" alt="profilo instagram diana bernabei aka dianacodes" height="20" width="20" />
   </a>
 </p>
 
