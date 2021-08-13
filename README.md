@@ -1,15 +1,9 @@
 <h1 align="center">Diana Bernabei </h1>
-<h4 align="center">Front-end Developer & UI Designer</h4>
+<h4 align="center">Front-end Developer, streamer and community manager</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dianabernabei" target="blank">
-    linkedin
-  </a>
-  <a href="https://twitter.com/dianabernabei" target="blank">
-  	twitter
-  </a>
-  <a href="https://www.instagram.com/_dianacodes/" target="blank">
-  	instagram
+  <a href="https://www.dianabernabei.com/" target="blank">
+    My awesome website
   </a>
 </p>
 
