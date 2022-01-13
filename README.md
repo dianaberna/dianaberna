@@ -1,26 +1,20 @@
-<h1 align="center">Diana Bernabei </h1>
-<h4 align="center">Front-end Developer, streamer and community manager</h4>
+<h1 align="center">Diana Bernabei</h1>
+<p align="center">Frontend Developer, UI/UX Designer and Content Creator</p>
 
 <p align="center">
   <a href="https://www.dianabernabei.com/" target="blank">
-    My awesome website
+    My website
   </a>
 </p>
 
-<h2>Skills</h2>
+<h3>Skills</h3>
 <ul>
-  <li>HTML5</li>
-  <li>CSS3, SASS</li>
-  <li>Bootstrap, Bulma</li>
-  <li>Javascript, jQuery</li>
-  <li>C / C ++, PHP</li>
-  <li>JAMstack (Jekyll)</li>
-  <li>Git, Github, Bitbucket</li>
-  <li>Markdown</li>
-  <li>Material Design and accessibility</li>
+  <li>HTML & CSS</li>
+  <li>Javascript, Vuejs, React</li>
+  <li>UI/UX Design, usability and accessibily
 </ul>
 
-<h2>GitHub Stats</h2>
+<h3>GitHub Stats</h3>
 <a href="https://github.com/dianaberna/dianaberna" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaberna&layout=compact&theme=highcontrast" />
 </a>
