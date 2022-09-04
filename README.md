@@ -6,5 +6,4 @@
   <li>🦄  Accessibility Consultant</li>
   <li>🖖  WTM Ambassador</li>
   <li>🎥  Content Creator</li>
-  <li>🤝  Community Manager</li>
 <ul>
